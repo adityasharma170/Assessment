@@ -1,0 +1,9 @@
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\bin\Debug\netstandard2.0\AssignmentLibrary.deps.json
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\bin\Debug\netstandard2.0\AssignmentLibrary.dll
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\bin\Debug\netstandard2.0\AssignmentLibrary.pdb
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\obj\Debug\netstandard2.0\AssignmentLibrary.csprojAssemblyReference.cache
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\obj\Debug\netstandard2.0\AssignmentLibrary.AssemblyInfoInputs.cache
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\obj\Debug\netstandard2.0\AssignmentLibrary.AssemblyInfo.cs
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\obj\Debug\netstandard2.0\AssignmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\obj\Debug\netstandard2.0\AssignmentLibrary.dll
+C:\Users\adityas\source\repos\AssignmentLibrary\AssignmentLibrary\obj\Debug\netstandard2.0\AssignmentLibrary.pdb
